@@ -7,4 +7,4 @@ SNESNet-based machinery health monitoring system under dynamic operating conditi
 
 ![image](https://github.com/user-attachments/assets/7ca3836d-d99a-432c-b9a1-a72e5224f148)
 
-# Marginal Indicator Adjustment via Logarithmic Polynomial Regulator
+Marginal Indicator Adjustment via Logarithmic Polynomial Regulator
